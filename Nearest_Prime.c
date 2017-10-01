@@ -1,3 +1,10 @@
+/*
+* Program: Check the given number is prime or not.
+*                 If not, find the nearest prime.
+* Input: A number n
+* Output: Nearest Prime
+* Author: Karthiga Shanmuga Sundaram
+*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
